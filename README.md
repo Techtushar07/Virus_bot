@@ -1,8 +1,8 @@
-# BRUTEFORCEnew
+# Whatsapp Crash 
 
 
 
-## 📌 ***FB Whataapp Crash is available for***:
+## 📌 ***Whataapp Crash is available for***:
 
 * Termux
 
