@@ -18,6 +18,9 @@ $ apt update
 $ apt upgrade
 ```
 ```
+$ pkg install php
+```
+```
 $ pkg install git
 ```
 ```
